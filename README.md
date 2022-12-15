@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Vue.js
 - 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me pandeynishuu@gmail.com
-- Fun fact : I love programming
 
 
 <!---
